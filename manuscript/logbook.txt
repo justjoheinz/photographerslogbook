@@ -28,20 +28,13 @@
 
 ##
 
-| Nr     | Film               |
-|--------|---------|----------|
-| f      | t       | be       |
+{icon=camera}
+G> f:
+G> t:
+G> Bellow extension:
 
-G> ## Remarks
-G>
-G>
-G>
-G>
-G>
-G>
-G>
-
-G> ## Negative
+{icon=flask}
+G> Remarks
 G>
 G>
 G>
@@ -50,7 +43,18 @@ G>
 G>
 G>
 
-G> ## Positive
+{icon=flask}
+G> Negative
+G>
+G>
+G>
+G>
+G>
+G>
+G>
+
+{icon=picture-o}
+G> Positive
 G>
 G>
 G>
