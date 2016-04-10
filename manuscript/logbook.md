@@ -29,14 +29,20 @@
 ##
 
 {icon=camera}
+G> Nr:
+G>
+G> Film:
+G>
 G> f:
 G>
 G> t:
-G> 
+G>
 G> Bellow extension:
+G>
 
 {icon=info}
 G> Remarks
+G>
 G>
 G>
 G>
@@ -54,9 +60,11 @@ G>
 G>
 G>
 G>
+G>
 
 {icon=picture-o}
 G> Positive
+G>
 G>
 G>
 G>
